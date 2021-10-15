@@ -1,11 +1,3 @@
-# 2.) Mostrar: Mostrar el vector generado en el punto anterior de tal manera que se muestre el género y el idioma del libro en lugar de los números que los representan y se listen ordenados por título en forma ascendente. Cada libro debe mostrarse a razón de una línea por registro.
-
-# Código de identificación o ISBN (cadena de caracteres).
-# Título.
-# Género (0: Autoayuda, 1:Arte, 2: Ficción, 3: Computación, 4: Economía, 5: Escolar, 6: Sociedad, 7: Gastronomía, 8: Infantil , 9: Otros).
-# Idioma (1: español, 2: inglés, 3: francés, 4:italiano, 5:otros).
-# Precio.
-
 arrayData = [{
 "isbn": "1234-5678-1234-5678",
 "title": "los alquimistas",
